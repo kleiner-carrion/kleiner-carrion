@@ -1,16 +1,52 @@
-### Hi there 👋
+# **Kleiner Carrion Carrion**
 
-<!--
-**kleiner-carrion/kleiner-carrion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## **Información personal**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
++ Fecha de nacimiento: 21 de Septiembre de 1998
++ Domicilio: C/ Paseo de los Castellanos 61, 5ºD
++ Telefono: 625 482 867
++ DNI: 50893175V
+
+### **Redes Sociales**
+
++ Correo electrónico: [kleineralexandercarrion@gmail.com](mailto:kleineralexandercarrion@gmail.com)
++ Linkedin: []
++ Github: [kleiner-carrion](https://github.com/kleiner-carrion)
+
+## **Sobre mi**
+Nací en Madrid y tengo 22 años
+
+Acabo de terminar el CFGS en Desarrollo de aplicaciones multiplataforma en CEEP.
+Tambien soy un interesado en lo relacionado en la tecnología.
+
+## **Formación académica**
+  | Nombre                                                              | Centro de enseñanza            | Año de inicio | Año de finalización |
+|---------------------------------------------------------------------|-----------------------------------------|---------------|------------|
+| Educación Primaria y Educación Secundaria Obligatoria, E.S.O | Colegio La Milagrosa            | 2000          | 2016       |
+| Bachillerato Sociales                                                | I.E.S Calderón de la Barca | 2016          | 2018       |
+| CFGS DAM        | CEEP      | 2018          | 2020     |
+
+
+  ## **Habilidades técnicas**
+ 
+ #### Lenguajes de programación:
+  + HTML
+  + CSS
+  + CSS3
+  + Javascript
+  + Bootstrap
+  + Angular
+  + Java
+  + C
+  
+## **Experiencia profesional**
+  
+ + Ayudante de pastelería
+ + Desarrollador web junior
+  
+## **Otra información**
+ 
+ - Ganas de aprender
+ - Aptitud para trabajar en equipo
+ - Sociable
