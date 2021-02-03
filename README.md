@@ -1,5 +1,6 @@
 # **Kleiner Carrion Carrion**
 
+  <img src="https://github.com/kleiner-carrion/imagenes/blob/main/FotoRecortada.jpg" style="width: 511px; height: 456px; position: center" >
 
 ## **Información personal**
 
