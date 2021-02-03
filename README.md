@@ -26,7 +26,7 @@ Tambien soy un interesado en lo relacionado en la tecnología.
 |---------------------------------------------------------------------|-----------------------------------------|---------------|------------|
 | Educación Primaria y Educación Secundaria Obligatoria, E.S.O | Colegio La Milagrosa            | 2000          | 2016       |
 | Bachillerato Sociales                                                | I.E.S Calderón de la Barca | 2016          | 2018       |
-| CFGS DAM        | CEEP      | 2018          | 2020     |
+| CFGS Desarrollo Aplicaciones Multiplataforma        | CEEP      | 2018          | 2020     |
 
 
   ## **Habilidades técnicas**
