@@ -12,7 +12,7 @@
 
 + Correo electrónico: [kleineralexandercarrion@gmail.com](mailto:kleineralexandercarrion@gmail.com)
 + Linkedin: [Kleiner Carrion](https://www.linkedin.com/in/kleiner-alexander-carrion-carrion-559958181/)
-+ Github: [kleiner-carrion](https://github.com/kleiner-carrion)
++ Github: [Kleiner Carrion](https://github.com/kleiner-carrion)
 
 ## **Sobre mi**
 Nací en Madrid y tengo 22 años
