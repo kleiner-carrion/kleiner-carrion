@@ -24,7 +24,7 @@ Tambien soy un interesado en lo relacionado en la tecnología.
 ## **Formación académica**
   | Nombre                                                              | Centro de enseñanza            | Año de inicio | Año de finalización |
 |---------------------------------------------------------------------|-----------------------------------------|---------------|------------|
-| Educación Primaria y Educación Secundaria Obligatoria, E.S.O | Colegio La Milagrosa            | 2000          | 2016       |
+| Educación Primaria y Educación Secundaria Obligatoria (E.S.O) | Colegio La Milagrosa            | 2000          | 2016       |
 | Bachillerato Sociales                                                | I.E.S Calderón de la Barca | 2016          | 2018       |
 | CFGS Desarrollo Aplicaciones Multiplataforma        | CEEP      | 2018          | 2020     |
 
