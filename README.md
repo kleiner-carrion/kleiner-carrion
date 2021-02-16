@@ -8,6 +8,7 @@
 + Domicilio: C/ Paseo de los Castellanos 61, 5ºD
 + Telefono: 625 482 867
 + DNI: 50893175V
++ Carné de conducir: tipo B
 
 ### **Redes Sociales**
 
